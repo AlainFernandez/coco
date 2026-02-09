@@ -1,3 +1,4 @@
 /resources
 .project
 .pydevproject
+/.pytest_cache/
